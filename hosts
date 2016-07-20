@@ -1,6 +1,6 @@
 # Copyright (c) cnAnonymous
 # https://github.com/cnAnonymous/hosts
-# Update :   2016-7-16
+# Update :   2016-7-20
 127.0.0.1         localhost
 ::1               localhost
 # Box start
@@ -629,6 +629,7 @@
 104.244.42.3      media.twitter.com
 104.244.42.3      business.twitter.com
 104.244.42.3      ads.twitter.com
+104.244.42.3      apps.twitter.com
 104.244.42.3      about.twitter.com
 104.244.42.3      static.twitter.com
 104.244.42.3      help.twitter.com
@@ -4249,6 +4250,7 @@
 216.58.199.12     check.googlezip.net
 216.58.199.12     compress.googlezip.net
 216.58.199.12     proxy-dev.googlezip.net
+74.125.28.121     code.getmdl.io
 74.125.28.121     webrtc.org
 74.125.28.121     www.webrtc.org
 74.125.28.121     www.gwtproject.org
@@ -4259,6 +4261,7 @@
 74.125.28.121     blog.google.org
 74.125.28.121     bugs.chromium.org
 74.125.28.121     blog.webmproject.org
+74.125.28.121     wiki.webmproject.org
 74.125.28.121     lists.webmproject.org
 74.125.28.121     www.android-x86.org
 74.125.28.121     docs.android-x86.org
@@ -4285,6 +4288,8 @@
 74.125.28.121     ghs.googlehosted.com
 74.125.28.121     blog.panoramio.com
 74.125.28.121     calicolabs.com
+74.125.28.121     madewithcode.com
+74.125.28.121     www.madewithcode.com
 74.125.28.121     www.calicolabs.com
 74.125.28.121     www.snapchat.com
 74.125.28.121     support.snapchat.com
